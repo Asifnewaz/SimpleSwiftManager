@@ -1,0 +1,3 @@
+// USE These class in storyboard to manage object easily
+
+// From Big mountain: https://github.com/bigmountainstudio/DesignableX
