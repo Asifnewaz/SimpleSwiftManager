@@ -1,8 +1,6 @@
 //https://www.nexmobility.com/articles/implementation-of-iOS-shimmer-effect.html
 //https://gist.github.com/policante/2e45915e8077635fcb7826958c4aa7bd
 //https://www.raywenderlich.com/1935-facebook-shimmer-tutorial
-
-
 // POD: 'ListPlaceholder'
 
 extension UIView {
