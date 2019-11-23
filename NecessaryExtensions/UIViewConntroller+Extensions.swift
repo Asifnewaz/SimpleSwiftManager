@@ -49,3 +49,67 @@ extension UIViewController {
         view.endEditing(true)
     }
 }
+
+
+//MARK: Extension for hiding mid character of a string
+// 1234567890 ----> 1234 **** 90
+
+extension UIViewController {
+    func hideMidChars(_ value: String) -> String {
+        return String(value.enumerated().map { index, char in
+            return [0,1, value.count-2 , value.count-1 ].contains(index) ? char : "x"
+        })
+    }
+    
+    func hideMidCharsWithOnlyTwoStar(_ value: String, initialDisplayChar: Int, endDisplayChar: Int) -> String {
+        let reveivedString = value
+        let reveivedStringInitialChar = reveivedString.prefix(initialDisplayChar)
+        let reveivedStringEndChar = reveivedString.suffix(endDisplayChar)
+        return  reveivedStringInitialChar + "****" + reveivedStringEndChar
+    }
+    
+    func hideCardsInitialChars(_ value: String, endDisplayChar: Int) -> String {
+        let reveivedString = value
+        let reveivedStringEndChar = reveivedString.suffix(endDisplayChar)
+        return "************ " + reveivedStringEndChar
+    }
+    
+    //MARK: 1234 56** **** 7890
+    func hideCharacterInCardFormat(_ value: String, initialDisplayChar: Int = 6, endDisplayChar: Int = 4) -> String {
+        let reveivedString = value
+        if reveivedString.count >= 13 {
+            let initChar = reveivedString.prefix(initialDisplayChar)
+            let endChar = reveivedString.suffix(endDisplayChar)
+            let count = reveivedString.count - initialDisplayChar - endDisplayChar
+            var starString: String = ""
+            for item in 1...count {
+                starString = starString + "*"
+            }
+            
+            let encryptedString: String = "" + initChar + starString + endChar
+            let formattedString: String =  encryptedString.inserting(separator: "    ", every: 4)
+            
+            return formattedString
+        } else {
+            let reveivedStringEndChar = reveivedString.suffix(endDisplayChar)
+            return "************ " + reveivedStringEndChar
+        }
+    }
+    
+}
+
+//MARK: This protocol is used for hide mid characters
+extension StringProtocol where Self: RangeReplaceableCollection {
+    mutating func insert(separator: Self, every n: Int) {
+        for index in indices.reversed() where index != startIndex &&
+            distance(from: startIndex, to: index) % n == 0 {
+            insert(contentsOf: separator, at: index)
+        }
+    }
+
+    func inserting(separator: Self, every n: Int) -> Self {
+        var string = self
+        string.insert(separator: separator, every: n)
+        return string
+    }
+}
