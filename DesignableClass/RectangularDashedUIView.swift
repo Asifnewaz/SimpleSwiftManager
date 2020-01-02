@@ -1,5 +1,5 @@
 //
-//  CustomDashedView.swift
+//  RectangularDashedView.swift
 //  CashBaba
 //
 //  Created by Asif Newaz on 24/12/19.
