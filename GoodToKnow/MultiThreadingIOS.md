@@ -34,15 +34,15 @@ There are two types of varaites in Dispatch queue:
 1. Serial Queue
 2. Concurrent Queue
 
-> NOTE: Each application have one thread, that is Main Thread
+> **NOTE: Each application have one thread, that is Main Thread**
 
-> By default OS provides:  1 serial queue and 4 concurrent queues
+> **By default OS provides:  1 serial queue and 4 concurrent queues**
 
-> Main Dispatch queue is a serial queue
+> **Main Dispatch queue is a serial queue**
 
-> 4 Concurrent queue is known as Global Dispatch queue
+> **4 Concurrent queue is known as Global Dispatch queue**
 
-> Global Dispatch queue are differetiated only by their priority level
+> **Global Dispatch queue are differetiated only by their priority level**
 
 
 ## What is a serial queue?
