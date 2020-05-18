@@ -11,4 +11,7 @@ A software design pattern is a solution to a particular problem you might face w
 
 
 ## Resource
-1. [RubyGarage](https://rubygarage.org/blog/swift-design-patterns)
+1. [GitHub](https://github.com/ochococo/Design-Patterns-In-Swift#-fa-ade)
+2. [Medium](https://medium.com/swiftworld/collection-for-design-patterns-in-swift-67265359aa47)
+3. [Raywenderlich](https://www.raywenderlich.com/477-design-patterns-on-ios-using-swift-part-1-2)
+4. [RubyGarage](https://rubygarage.org/blog/swift-design-patterns)
