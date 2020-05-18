@@ -118,5 +118,5 @@ A DispatchQueue task can be run synchronously or asynchronously. The main differ
 * Asynchronously starting a task will directly return on the calling thread without blocking
 
 ## Resource
-1. https://www.youtube.com/watch?v=3I_DFf4iYJ8
-2. https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/
+1. [YouTube](https://www.youtube.com/watch?v=3I_DFf4iYJ8)
+2. [SwiftLee](https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/)
