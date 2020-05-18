@@ -8,3 +8,14 @@ Bounds = a view's location and size using its own coordinate system.
 
 > Important for: placing the view's content or subviews within itself.
 
+```
+Frame
+    origin = (0, 0)
+    width = 80
+    height = 130
+
+Bounds 
+    origin = (0, 0)
+    width = 80
+    height = 130
+```
