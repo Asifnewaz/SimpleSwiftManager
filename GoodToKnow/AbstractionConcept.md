@@ -35,10 +35,13 @@ The abstract method will never be final because the abstract class must implemen
 An interface contains behaviors that a class implements.
 
 ## Difference Between Interface and Abstract Class
-* _An interface contains only abstract methods._
-* All the members of the interface are public by default.
-* _Interface supports multiple inheritance. Abstract doeson't_
-* Interface can't provide the implementation of abstract class. Abstract method can
+
+Interface | Abstract
+------------ | -------------
+An interface contains only abstract methods. | An abstract contains both abstract and non abstract methods.
+All the members of the interface are public by default. | abstract
+Interface supports multiple inheritance. | Abstract does not, it can have public private...
+Interface can't provide the implementation of abstract class. | Abstract method can provide impelmentation
 
 
 ## Abstract in swift:
