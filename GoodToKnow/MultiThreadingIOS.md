@@ -1,5 +1,44 @@
+# Concurrency:
+Concurrency is a process of executing multiple task at same point of time.
+
+**Morden OS are capable of running multiple task with a single cpu by sharing time among the different tasks.**
+_Apple_ introduced multicore processor
+
+**in iOS, Concurrency can be achived with two different API's:**
+* Dispatch Queue (GCD)
+* NSOperationQueue
+
+## Why Concurrency?
+* Get benefit out of the hardware
+* Better UX
+
+## GCD: Grand Central Dispatch
+GCD is low level C API to perform tasks concurretly.
+GCD provides and manage queues and tasks.
+
+GCD is most commonly used api, 
+*   - to manage code
+*   - execute operatioins asysnchronously at UNIX level
+
+
+## Queue
+Queues are data structure to manage Object. It uses FIFO.
+
+
 ## What is a dispatch queue?
-A DispatchQueue is an abstraction layer on top of the GCD queue that allows you to perform tasks asynchronously and concurrently in your application. Tasks are always executed in the order they’re added to the queue.
+A DispatchQueue is an abstraction layer on top of the GCD queue.
+It allows you to perform tasks asynchronously and concurrently in your application. 
+Tasks are always executed in the order they’re added to the queue.
+
+There are two types of varaites in Dispatch queue:
+1. Serial Queue
+2. Concurrent Queue
+
+>
+> NOTE: Each application have one thread, that is Main Thread
+>       By default OS provides:  1 serial queue and 4 concurrent queues
+>       Main Dispatch queue is a serial queue
+>       4 Concurrent queue is known as Global Dispatch queue
 
 ## What is a serial queue?
 A serial Dispatch Queue performs only one task at the time. Serial queues are often used to synchronize access to a specific value or resource to prevent data races to occur.
