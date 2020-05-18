@@ -1,4 +1,4 @@
-## *What is Abstraction in Java?*
+## What is Abstraction in Java?
 Abstraction in JAVA “shows” only the essential attributes and “hides” unnecessary details of the object from the user. 
 In Java, abstraction is accomplished using Abstract classes, Abstract methods, and interfaces. 
 
@@ -35,12 +35,12 @@ The abstract method will never be final because the abstract class must implemen
 An interface contains behaviors that a class implements.
 
 ## Difference Between Interface and Abstract Class
-* An interface contains only abstract methods.
+* _An interface contains only abstract methods._
 * All the members of the interface are public by default.
-* Interface supports multiple inheritance. Abstract doeson't
+* _Interface supports multiple inheritance. Abstract doeson't_
 * Interface can't provide the implementation of abstract class. Abstract method can
 
 
-## *Abstract in swift:*
+## Abstract in swift:
 There no concept of abstract in Swift (like Objective-C) but you can do this :
 
