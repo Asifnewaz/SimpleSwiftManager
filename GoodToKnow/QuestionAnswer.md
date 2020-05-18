@@ -9,7 +9,7 @@ Bounds = a view's location and size using its own coordinate system.
 > Important for: placing the view's content or subviews within itself.
 
 <p align="center">
-<img src="GoodToKnow/Resource/frameVsBouds.png" title="FrameVsBounds"/>
+    <a href="GoodToKnow/Resource/frameVsBouds.png"> <img src="GoodToKnow/Resource/frameVsBouds.png"  width="200" height="100"/> </a>
 </p>
 
 ```
