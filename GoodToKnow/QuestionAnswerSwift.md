@@ -51,7 +51,7 @@ print("My name is \(name)")
 
 ### What is optional
 An optional in Swift is a type that can hold either a value or no value. 
-Optionals are written by appending a `<?>` to any type:
+Optionals are written by appending a `?` to any type:
 ```swift
 var variableName: String?
 ```
