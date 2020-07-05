@@ -35,7 +35,7 @@ let man = ("Asif", 20)
 print(man.0) // Asif
 print(man.1) // 20
 
-let man = (ame: "Asif", age: 20)
+let man = (name: "Asif", age: 20)
 print(man.name) // Asif
 print(man.age) // 20
 
