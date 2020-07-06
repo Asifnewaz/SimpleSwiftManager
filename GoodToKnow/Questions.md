@@ -1,6 +1,8 @@
 ## 1- Introduction
 Before the actual interview start, most of the companies like to do first Skype call or phone call to get know about the candidate. I’ve called this meeting “Introduction” meeting.
+
 In introduction meeting, it is usually you’ll do a friendly-call with the recruiter, so they ask questions just about “You”.
+
 So, they try to understand; are you fit for the role, are you same mindset with the company to fit with their culture etc, they try to understand what is your level of technical and soft skills.
 
 ### Common/possible questions;
@@ -12,15 +14,15 @@ So, they try to understand; are you fit for the role, are you same mindset with 
 * Q6: What technical projects have you contributed (e.g. open source projects) to outside of work and/or school?
 * Q7: What publications, websites, blogs, and communities do you follow or you’re a member of?
 
-Bonus: As a developer/lead/manager your social profiles, i.e Stackoverflow account, Github/Bitbucket account and if you are blogging provide them too.
+> Bonus: As a developer/lead/manager your social profiles, i.e Stackoverflow, Github/Bitbucket account and if you are blogging provide them too.
 
 ## 2- Technical / Home / On-site Assesment
-This is the second meetup. Most of the questions are the technical scope. the interviewer will ask questions based on topics / or can expect you to complete a solve a problem to understand your level of knowledge in CS, algorithms, data structures, architectures, software development methodologies.
+This is the second meetup. Most of the questions are the technical scope. 
+The interviewer will ask questions based on topics / or can expect you to complete a solve a problem to understand your level of knowledge in CS, algorithms, data structures, architectures, software development methodologies.
 Some companies prefers giving you an home assesment with the limited time (1 day to 3 day maximum). They expect you to complete home assesment, refactor code or write a application from stratch.
 
 ### Topics;
-* Big-O notation
-* (Explain what is Big-O, what is space/time complexity about etc.)
+* Big-O notation (Explain what is Big-O, what is space/time complexity about etc.)
 * LinkedList
 * Lookup table
 * HashTable
@@ -30,11 +32,8 @@ Some companies prefers giving you an home assesment with the limited time (1 day
 * Fibonacci Sequence
 * Integer Partition
 * Knapsack Problem
-* Longest Common Sequence
-* Longest Increasing Subsequence
-* Longest Palindromic Subsequence
-* Maximum SubArray
-* Maximum Subpath
+* Longest Common Sequence, Longest Increasing Subsequence, Longest Palindromic Subsequence
+* Maximum SubArray, Maximum Subpath
 * Pascal’s Triangle
 * Shortest Common Supersequence
 * Bit Counting (Brian Kernighan’s Algorithm)
@@ -46,8 +45,8 @@ Some companies prefers giving you an home assesment with the limited time (1 day
 * Lowest Common Ancestor
 
 ## 3- Interview Questions
-Most common interviewing questions, technical specific/ for asked on-site assessments
-IOS / Swift / Objective-C Questions
+
+> Most common interviewing questions, technical specific/ for asked on-site assessments: IOS / Swift / Objective-C Questions
 
 ### Senior level;
 * Q1: What is the concurrency?. How many ways you know to achieve concurrency?
