@@ -19,31 +19,31 @@ This is the second meetup. Most of the questions are the technical scope. the in
 Some companies prefers giving you an home assesment with the limited time (1 day to 3 day maximum). They expect you to complete home assesment, refactor code or write a application from stratch.
 
 ### Topics;
-Big-O notation
-(Explain what is Big-O, what is space/time complexity about etc.)
-LinkedList
-Lookup table
-HashTable
-Union-Find (Disjoint Set)
-Cryptography (Cipher, RSA, Diffie-Hellman, Elliptic Curved Crypto)
-Dynamic Programming
-Fibonacci Sequence
-Integer Partition
-Knapsack Problem
-Longest Common Sequence
-Longest Increasing Subsequence
-Longest Palindromic Subsequence
-Maximum SubArray
-Maximum Subpath
-Pascal’s Triangle
-Shortest Common Supersequence
-Bit Counting (Brian Kernighan’s Algorithm)
-Graph Theory (Bellman-Ford, BFS, DFS, Depth-Limited Search, Dijkstra’s Shortest Path Algorithms (Floyd-Warshall, Edmonds–Karp algorithm, Ford–Fulkerson algorithm)
-Minium Spanning Tree (Kruskal’s Minimum Spanning Tree, Prim)
-Search (Linear Search, Binary Search)
-Sorting (Bubble Sort, Heap Sort, Insertion Sort, Merge Sort, Quick Sort, Radix Sort, Selection Sort, Shell Sort)
-Tree (Binary Search Tree, Binary Search Tree Traversal, Search, Find Min and Max, Delete in Trees)
-Lowest Common Ancestor
+* Big-O notation
+* (Explain what is Big-O, what is space/time complexity about etc.)
+* LinkedList
+* Lookup table
+* HashTable
+* Union-Find (Disjoint Set)
+* Cryptography (Cipher, RSA, Diffie-Hellman, Elliptic Curved Crypto)
+* Dynamic Programming
+* Fibonacci Sequence
+* Integer Partition
+* Knapsack Problem
+* Longest Common Sequence
+* Longest Increasing Subsequence
+* Longest Palindromic Subsequence
+* Maximum SubArray
+* Maximum Subpath
+* Pascal’s Triangle
+* Shortest Common Supersequence
+* Bit Counting (Brian Kernighan’s Algorithm)
+* Graph Theory (Bellman-Ford, BFS, DFS, Depth-Limited Search, Dijkstra’s Shortest Path Algorithms (Floyd-Warshall, Edmonds–Karp algorithm, Ford–Fulkerson algorithm)
+* Minium Spanning Tree (Kruskal’s Minimum Spanning Tree, Prim)
+* Search (Linear Search, Binary Search)
+* Sorting (Bubble Sort, Heap Sort, Insertion Sort, Merge Sort, Quick Sort, Radix Sort, Selection Sort, Shell Sort)
+* Tree (Binary Search Tree, Binary Search Tree Traversal, Search, Find Min and Max, Delete in Trees)
+* Lowest Common Ancestor
 
 ## 3- Interview Questions
 Most common interviewing questions, technical specific/ for asked on-site assessments
