@@ -1,8 +1,4 @@
-https://www.edureka.co/blog/interview-questions/ios-interview-questions/
-https://medium.com/@duruldalkanat/ios-interview-questions-13840247a57a
-https://www.codementor.io/@alexbush/ios-interview-questions-for-senior-developers-du107usis
-https://medium.com/seyhunakyurek/interview-guideline-for-senior-lead-ios-developers-997484ed53da
-1- Introduction
+## 1- Introduction
 Before the actual interview start, most of the companies like to do first Skype call or phone call to get know about the candidate. I’ve called this meeting “Introduction” meeting.
 In introduction meeting, it is usually you’ll do a friendly-call with the recruiter, so they ask questions just about “You”.
 So, they try to understand; are you fit for the role, are you same mindset with the company to fit with their culture etc, they try to understand what is your level of technical and soft skills.
@@ -17,7 +13,7 @@ Q7: What publications, websites, blogs, and communities do you follow or you’r
 
 Bonus: As a developer/lead/manager your social profiles, i.e Stackoverflow account, Github/Bitbucket account and if you are blogging provide them too.
 
-2- Technical / Home / On-site Assesment
+## 2- Technical / Home / On-site Assesment
 This is the second meetup. Most of the questions are the technical scope. the interviewer will ask questions based on topics / or can expect you to complete a solve a problem to understand your level of knowledge in CS, algorithms, data structures, architectures, software development methodologies.
 Some companies prefers giving you an home assesment with the limited time (1 day to 3 day maximum). They expect you to complete home assesment, refactor code or write a application from stratch.
 
@@ -47,7 +43,8 @@ Search (Linear Search, Binary Search)
 Sorting (Bubble Sort, Heap Sort, Insertion Sort, Merge Sort, Quick Sort, Radix Sort, Selection Sort, Shell Sort)
 Tree (Binary Search Tree, Binary Search Tree Traversal, Search, Find Min and Max, Delete in Trees)
 Lowest Common Ancestor
-3- Interview Questions
+
+## 3- Interview Questions
 Most common interviewing questions, technical specific/ for asked on-site assessments
 IOS / Swift / Objective-C Questions
 
@@ -77,6 +74,7 @@ Q22: What happens when you invoke a method on a nil pointer?
 Q23: What is Git? Are you using and how?
 Q24: What are some of the major differences between Objective-C and Swift?
 Q25: Explain Autolayout, Constraints and Autolayout methods such as (layoutSubViews, setNeedsLayout, layoutIfNeeded and updateConstraints)
+
 Lead specific questions
 
 Q1: How would you convert the codebase of an existing iPhone or iPad app?
@@ -99,7 +97,8 @@ Q14: How to avoid or eliminate technical debt from previous project or project y
 Q15: Explain Provisioning Profile & App ID
 Q16: Explain Code Signing in IOS?
 Q17: Explain Signing Identity, Public & Private Key, Keychain Application
-4- Test Driven Development (TDD)
+
+## 4- Test Driven Development (TDD)
 
 Q1: What is the software testing? (Explain basic concepts of testing)
 Q2: What is the system under test?
@@ -111,7 +110,8 @@ Q7: What is beta testing?
 Q8: What is automated testing?
 Q9: What is unit testing?
 Q10: What is code coverage? How can you measure?
-5- HR Assessment
+
+## 5- HR Assessment
 Q1: Why should I hire you?
 Q2: Why want to work with our company?
 Q3: For the last project you have been involved, what percentage of your time did you spend coding? What did you do with the rest of your time on that project?
@@ -119,3 +119,9 @@ Q4: At what point in your life did you first decide to seek a career in software
 Q5: What kind of job and issues would you like to focus on?
 Q6: What would your ideal position look like?
 Q7: What is your career expectations middle and long term?
+
+## Reference
+### Edureka[https://www.edureka.co/blog/interview-questions/ios-interview-questions/]
+### Medium[https://medium.com/@duruldalkanat/ios-interview-questions-13840247a57a]
+### CodeMentor[https://www.codementor.io/@alexbush/ios-interview-questions-for-senior-developers-du107usis]
+### Medium[https://medium.com/seyhunakyurek/interview-guideline-for-senior-lead-ios-developers-997484ed53da]
