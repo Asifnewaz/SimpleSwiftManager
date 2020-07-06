@@ -2,7 +2,8 @@
 Before the actual interview start, most of the companies like to do first Skype call or phone call to get know about the candidate. I’ve called this meeting “Introduction” meeting.
 In introduction meeting, it is usually you’ll do a friendly-call with the recruiter, so they ask questions just about “You”.
 So, they try to understand; are you fit for the role, are you same mindset with the company to fit with their culture etc, they try to understand what is your level of technical and soft skills.
-Common/possible questions;
+
+### Common/possible questions;
 Q1: Tell me about yourself?
 Q2: What are your strength/weaknesses?
 Q3: What is your previous experiences and works?
@@ -17,7 +18,7 @@ Bonus: As a developer/lead/manager your social profiles, i.e Stackoverflow accou
 This is the second meetup. Most of the questions are the technical scope. the interviewer will ask questions based on topics / or can expect you to complete a solve a problem to understand your level of knowledge in CS, algorithms, data structures, architectures, software development methodologies.
 Some companies prefers giving you an home assesment with the limited time (1 day to 3 day maximum). They expect you to complete home assesment, refactor code or write a application from stratch.
 
-Topics;
+### Topics;
 Big-O notation
 (Explain what is Big-O, what is space/time complexity about etc.)
 LinkedList
@@ -48,7 +49,7 @@ Lowest Common Ancestor
 Most common interviewing questions, technical specific/ for asked on-site assessments
 IOS / Swift / Objective-C Questions
 
-Senior level;
+### Senior level;
 Q1: What is the concurrency?. How many ways you know to achieve concurrency?
 Q2: What are differences between Manual and Automatic Reference Counting?
 Q3: Can you Explain IOS Design Patterns? ( Singletons, KVC, Notifications, MVC, Delegation)
@@ -75,8 +76,7 @@ Q23: What is Git? Are you using and how?
 Q24: What are some of the major differences between Objective-C and Swift?
 Q25: Explain Autolayout, Constraints and Autolayout methods such as (layoutSubViews, setNeedsLayout, layoutIfNeeded and updateConstraints)
 
-Lead specific questions
-
+### Lead specific questions
 Q1: How would you convert the codebase of an existing iPhone or iPad app?
 Q2: How would you go about structuring an iOS application that you are building from the ground up?
 Q3: How you implement middleware / (BFF) backend for frontend layer?
