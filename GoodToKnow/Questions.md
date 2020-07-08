@@ -5,33 +5,33 @@ In introduction meeting, it is usually you’ll do a friendly-call with the recr
 
 So, they try to understand; are you fit for the role, are you same mindset with the company to fit with their culture etc, they try to understand what is your level of technical and soft skills.
 
-### Common/possible questions;
+## Common/possible questions;
 
-* Q1: Tell me about yourself?
-> **Present:** Talk a little bit about what your current role is, the scope of it, and perhaps a big recent accomplishment.
-> **Past:** Tell the interviewer how you got there and/or mention previous experience that’s relevant to the job and company you’re applying for.
-> **Future:** Segue into what you’re looking to do next and why you’re interested in this gig (and a great fit for it, too).
-> **Inject Some Passion** Into Your Answer
-
-
-* Q2: What are your strength/weaknesses?
-> **[Strength](https://devskiller.com/qualities-great-developer/):**
-> ** Curiosity
-> ** Fast & productivity
-> ** Love of learning
-> ** Adaptability
-
-> **Weaknesses:**
-> ** hate unorganised code
-> ** breaking convennsions
-> ** take more pressure
+### Q1: Tell me about yourself?
+**Present:** Talk a little bit about what your current role is, the scope of it, and perhaps a big recent accomplishment.
+**Past:** Tell the interviewer how you got there and/or mention previous experience that’s relevant to the job and company you’re applying for.
+**Future:** Segue into what you’re looking to do next and why you’re interested in this gig (and a great fit for it, too).
+**Inject Some Passion** Into Your Answer
 
 
-* Q3: What is your previous experiences and works?
-* Q4: Which programming language(s) do you feel most knowledgeable/comfortable with? Which language(s) are you currently working with? What is OS platform(s) you most comfortable with?
-* Q5: Describe in detail what your personal/professional computing environment looks like (what hardware & software do you use) and why.
-* Q6: What technical projects have you contributed (e.g. open source projects) to outside of work and/or school?
-* Q7: What publications, websites, blogs, and communities do you follow or you’re a member of?
+### Q2: What are your strength/weaknesses?
+**[Strength](https://devskiller.com/qualities-great-developer/):**
+** Curiosity
+** Fast & productivity
+** Love of learning
+** Adaptability
+
+**Weaknesses:**
+** hate unorganised code
+** breaking convennsions
+** take more pressure
+
+
+### Q3: What is your previous experiences and works?
+### Q4: Which programming language(s) do you feel most knowledgeable/comfortable with? Which language(s) are you currently working with? What is OS platform(s) you most comfortable with?
+### Q5: Describe in detail what your personal/professional computing environment looks like (what hardware & software do you use) and why.
+### Q6: What technical projects have you contributed (e.g. open source projects) to outside of work and/or school?
+### Q7: What publications, websites, blogs, and communities do you follow or you’re a member of?
 
 > Bonus: As a developer/lead/manager your social profiles, i.e Stackoverflow, Github/Bitbucket account and if you are blogging provide them too.
 
