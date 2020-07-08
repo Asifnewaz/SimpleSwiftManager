@@ -6,7 +6,13 @@ In introduction meeting, it is usually you’ll do a friendly-call with the recr
 So, they try to understand; are you fit for the role, are you same mindset with the company to fit with their culture etc, they try to understand what is your level of technical and soft skills.
 
 ### Common/possible questions;
+
 * Q1: Tell me about yourself?
+> Present: Talk a little bit about what your current role is, the scope of it, and perhaps a big recent accomplishment.
+> Past: Tell the interviewer how you got there and/or mention previous experience that’s relevant to the job and company you’re applying for.
+> Future: Segue into what you’re looking to do next and why you’re interested in this gig (and a great fit for it, too).
+> Inject Some Passion Into Your Answer
+
 * Q2: What are your strength/weaknesses?
 * Q3: What is your previous experiences and works?
 * Q4: Which programming language(s) do you feel most knowledgeable/comfortable with? Which language(s) are you currently working with? What is OS platform(s) you most comfortable with?
