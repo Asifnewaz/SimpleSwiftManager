@@ -69,6 +69,8 @@ Some companies prefers giving you an home assesment with the limited time (1 day
 
 ### Senior level;
 * Q1: What is the concurrency?. How many ways you know to achieve concurrency?
+> [Concurrency Basic](GoodToKnow/MultiThreadingIOS.md)
+
 * Q2: What are differences between Manual and Automatic Reference Counting?
 * Q3: Can you Explain IOS Design Patterns? ( Singletons, KVC, Notifications, MVC, Delegation)
 * Q4: Define OOP. What is Encapsulation, Abstract, Inheritance, Polymorphism and can you explain Solid Principles in few words?
