@@ -25,7 +25,7 @@ let name = "asif"
 Explicitly telling type:
 ```swift
 let age: Int = 10
-let name: Swift = "asif"
+let name: String = "asif"
 ```
 ### What is tupple
 Tupple is a process of groupingg multiple values in a single variable.
