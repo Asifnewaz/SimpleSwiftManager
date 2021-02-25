@@ -45,7 +45,7 @@ print(man.age) // 20
 String Interpolation is a procees of embedding values into a string
 
 ```swift
-let name: Swift = "asif"
+let name: String = "asif"
 print("My name is \(name)")
 ```
 
@@ -60,7 +60,7 @@ var variableName: String?
 ### What is optional binding
 
 ```swift
-let myName: Swift?
+let myName: String?
 
 if let name = myName {
     print("My name is \(name)")
@@ -70,7 +70,7 @@ if let name = myName {
 ### What is optional chaining
 ```swift
 class Man {
-    var name: Swift?
+    var name: String?
     var age: Int?
 }
 
