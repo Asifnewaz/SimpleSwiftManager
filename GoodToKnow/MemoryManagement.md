@@ -1,5 +1,19 @@
 # Memory Management
 
+### What's the difference between the atomic and nonatomic attributes?
+* Atomic: 
+    - default behavior
+    - only one thread accesses the variable (static type). 
+    - Atomic is thread-safe, 
+    - but it is slow.
+* Nonatomic:
+    - Not default behavior
+    - multiple threads access the variable (dynamic type). 
+    - Nonatomic is thread-unsafe, 
+    - but it is fast.
+[Link](https://stackoverflow.com/questions/588866/whats-the-difference-between-the-atomic-and-nonatomic-attributes#:~:text=Atomic%20means%20only%20one%20thread%20accesses%20the%20variable%20(static%20type).&text=Nonatomic%20means%20multiple%20threads%20access,unsafe%2C%20but%20it%20is%20fast.)
+
+
 ## Reference:
 * [swift](https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html#:~:text=Swift%20uses%20Automatic%20Reference%20Counting,think%20about%20memory%20management%20yourself.&text=Reference%20counting%20applies%20only%20to%20instances%20of%20classes.)
 * [Swift By Sundell](https://www.swiftbysundell.com/basics/memory-management/)
