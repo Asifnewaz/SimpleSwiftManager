@@ -1,6 +1,6 @@
 # Filter With Crop 
 
-## using applyingCIFiltersWithHandler method 
+## using `applyingCIFiltersWithHandler` method 
 
 ```objc
 - (void) addFilterWithCrop: (CGRect)cropRect {
