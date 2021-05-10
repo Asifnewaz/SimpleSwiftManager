@@ -1,3 +1,3 @@
 # AVVideoComposition Link
 
-* [Custom Compositior](https://www.coder.work/article/4413546)
+* [Apply CIFilter using AVVideoCompositing](https://www.coder.work/article/4413546)
