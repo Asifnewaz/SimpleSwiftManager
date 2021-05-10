@@ -1,9 +1,10 @@
 # AVFoudation Link
 
-**[Important](https://github.com/onmyway133/notes/issues/196)**
-**[Study](https://www.programmersought.com/article/8839757033/)**
-**[Study Apple Doc](https://developer.apple.com/library/archive/navigation/#section=Technologies&topic=AVFoundation)**
-**[Study Objc](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/DefiningClasses/DefiningClasses.html#:~:text=In%20Objective%2DC%2C%20a%20class,but%20they%20can%20receive%20messages.&text=Class%20methods%20are%20implemented%20in,implementation%20block%20for%20the%20class.)**
+- **[Important](https://github.com/onmyway133/notes/issues/196)**
+- **[Study](https://www.programmersought.com/article/8839757033/)**
+- **[Study Apple Doc](https://developer.apple.com/library/archive/navigation/#section=Technologies&topic=AVFoundation)**
+- **[Study Objc](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/DefiningClasses/DefiningClasses.html#:~:text=In%20Objective%2DC%2C%20a%20class,but%20they%20can%20receive%20messages.&text=Class%20methods%20are%20implemented%20in,implementation%20block%20for%20the%20class.)**
+- 
 
 ## AVVideoCompositing
 
@@ -25,4 +26,3 @@
 * [Medium](https://medium.com/journey-of-one-thousand-apps/diving-into-core-image-part-one-39f83f0ceb2f)
 * [Medium](https://medium.com/@alex_19513/real-time-video-editing-swift-2cc18f198c83)
 * [Medium](https://medium.com/@quentinfasquel/ios-transparent-video-with-coreimage-52cfb2544d54)
-* 
