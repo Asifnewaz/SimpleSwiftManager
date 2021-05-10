@@ -2,7 +2,7 @@
 
 ## using applyingCIFiltersWithHandler method 
 
-```
+```objective c
 - (void) addFilterWithCrop: (CGRect)cropRect {
     //Link: https://stackoverflow.com/questions/42165964/not-applying-cifilter-on-video-properly
     
