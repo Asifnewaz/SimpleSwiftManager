@@ -1,6 +1,6 @@
 # AVVideoComposition Link
 
-**Important**[Link](https://github.com/onmyway133/notes/issues/196)`
+**[Important](https://github.com/onmyway133/notes/issues/196)**
 
 ## AVVideoCompositing
 
