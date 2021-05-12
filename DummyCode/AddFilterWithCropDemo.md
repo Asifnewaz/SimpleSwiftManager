@@ -89,3 +89,35 @@
 }
 
 ```
+
+## using `applyingCIFiltersWithHandler` method2
+
+```objc
+
+- (AVMutableVideoComposition *)getCompositionWithCIFilter {
+
+    CIFilter *filter = [CIFilter filterWithName:filterName];
+    AVMutableVideoComposition *composition = [AVMutableVideoComposition videoCompositionWithAsset:asset applyingCIFiltersWithHandler:^(AVAsynchronousCIImageFilteringRequest * _Nonnull request) {
+        CIImage *source = request.sourceImage.imageByClampingToExtent;
+        if([filterName isEqual:@"CIGaussianBlur"]){
+            
+            int currentTime = (int)(request.compositionTime.value / request.compositionTime.timescale);
+            if (currentTime < 3) {
+                [request finishWithImage:source context:nil];
+            } else {
+                [filter setValue:source forKey:kCIInputImageKey];
+        
+                CIImage *output = [filter.outputImage imageByCroppingToRect:request.sourceImage.extent];
+                [request finishWithImage:output context:nil];
+            }
+        } else if([filterName isEqual:@"CIPhotoEffectInstant"]) {
+            [filter setValue:source forKey:kCIInputImageKey];
+    
+            CIImage *output = [filter.outputImage imageByCroppingToRect:request.sourceImage.extent];
+            [request finishWithImage:output context:nil];
+        }
+    }];
+    return composition;
+}
+
+```
