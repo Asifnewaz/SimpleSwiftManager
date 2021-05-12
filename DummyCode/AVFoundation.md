@@ -19,6 +19,7 @@
 * [Square cropping and fixing the video orientation in iOS](https://stackoverflow.com/questions/26932794/square-cropping-and-fixing-the-video-orientation-in-ios)
 * [Crop area different than Selected Area in iOS?](https://stackoverflow.com/questions/29450308/crop-area-different-than-selected-area-in-ios)
 * [Cropping AVAsset video with AVFoundation](https://stackoverflow.com/questions/21077240/cropping-avasset-video-with-avfoundation)
+* [LLVideoEditor: An easy to use library for editing videos](https://github.com/omergul/LLVideoEditor/tree/master)
 
 ## CIImage
 
