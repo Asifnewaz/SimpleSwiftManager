@@ -51,6 +51,8 @@
 * [Medium](https://medium.com/journey-of-one-thousand-apps/diving-into-core-image-part-one-39f83f0ceb2f)
 * [Medium](https://medium.com/@alex_19513/real-time-video-editing-swift-2cc18f198c83)
 * [Medium](https://medium.com/@quentinfasquel/ios-transparent-video-with-coreimage-52cfb2544d54)
+* [CIFilter](https://ase.in.tum.de/lehrstuhl_1/teaching/tutorials/506-sgd-ws13-tutorial-core-image)
+* [Custom CIFilter](https://bignerdranch.com/blog/custom-filters-with-core-image-kernel-language/)
 
 
 ## Youtube Channel
