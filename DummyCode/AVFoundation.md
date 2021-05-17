@@ -9,6 +9,14 @@
 ## Website
 * [NSHipster](https://nshipster.com/)
 * [Awesome iOS](http://awesomeios.com/)
+* [APPCODA](https://www.appcoda.com/ios-programming-course/)
+
+## Algorithms
+* [Sorting Algorithms](https://www.youtube.com/watch?v=TzeBrDU-JaY&list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U&index=6) 
+
+## Auto Layout
+* [iOS Autolayout](https://www.youtube.com/watch?v=I1Z3vvSad8Y)
+* [Auto-layout tutorial for beginners](https://www.youtube.com/watch?v=TCGl-Nst014&list=PLH09wnLPfxsmk2u-lYxS4JTDEpDod6C2h)
 
 
 ## AVFoundation
@@ -18,6 +26,7 @@
 * [Apple Debugging](https://www.youtube.com/watch?v=VdBlMpjqqAc&list=PLgTh9sDnKCUM9cgjfwIkJCSMkUGYmjB6-&index=2)
 * [Advanced Swift - Memory Layout & Pointers](https://www.youtube.com/watch?v=o-Ta5AIUSKM&list=PLgTh9sDnKCUMzd4FXd5iVPALf5xixwW4T)
 * [Reducing Memory Footprint and OOM](https://medium.com/flawless-app-stories/techniques-to-reduce-memory-footprint-and-oom-terminations-in-ios-a0f6bef38217)
+* [Friday Session 1: Debugging and Xcode Tips and Tricks](https://www.youtube.com/watch?v=-UtIg4Lt7T8&list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq&index=4)
 
 
 ## AVVideoCompositing
@@ -41,3 +50,8 @@
 * [Medium](https://medium.com/journey-of-one-thousand-apps/diving-into-core-image-part-one-39f83f0ceb2f)
 * [Medium](https://medium.com/@alex_19513/real-time-video-editing-swift-2cc18f198c83)
 * [Medium](https://medium.com/@quentinfasquel/ios-transparent-video-with-coreimage-52cfb2544d54)
+
+
+## Youtube Channel
+* [The Swift Guy](https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA/playlists)
+* [Jeffrey App](https://www.youtube.com/user/JeffreyApp/playlists)
