@@ -54,6 +54,7 @@
 * [Medium](https://medium.com/@quentinfasquel/ios-transparent-video-with-coreimage-52cfb2544d54)
 * [CIFilter](https://ase.in.tum.de/lehrstuhl_1/teaching/tutorials/506-sgd-ws13-tutorial-core-image)
 * [Custom CIFilter](https://bignerdranch.com/blog/custom-filters-with-core-image-kernel-language/)
+* [iOS Core Image Tutorial](https://ase.in.tum.de/lehrstuhl_1/teaching/tutorials/506-sgd-ws13-tutorial-core-image)
 
 
 ## Youtube Channel
