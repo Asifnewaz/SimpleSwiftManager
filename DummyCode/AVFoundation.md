@@ -6,10 +6,11 @@
 - **[Study Objc](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/DefiningClasses/DefiningClasses.html#:~:text=In%20Objective%2DC%2C%20a%20class,but%20they%20can%20receive%20messages.&text=Class%20methods%20are%20implemented%20in,implementation%20block%20for%20the%20class.)**
 - 
 
-## Website
+## Blog Website 
 * [NSHipster](https://nshipster.com/)
 * [Awesome iOS](http://awesomeios.com/)
 * [APPCODA](https://www.appcoda.com/ios-programming-course/)
+* [Big Mountain Studio Tutorial](https://www.bigmountainstudio.com/dashboard)
 
 ## Algorithms
 * [Sorting Algorithms](https://www.youtube.com/watch?v=TzeBrDU-JaY&list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U&index=6) 
