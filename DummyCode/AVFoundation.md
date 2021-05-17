@@ -11,6 +11,7 @@
 * [Awesome iOS](http://awesomeios.com/)
 * [APPCODA](https://www.appcoda.com/ios-programming-course/)
 * [Big Mountain Studio Tutorial](https://www.bigmountainstudio.com/dashboard)
+* [Big Nerd Ranch](https://bignerdranch.com/blog/category/ios/)
 
 ## Algorithms
 * [Sorting Algorithms](https://www.youtube.com/watch?v=TzeBrDU-JaY&list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U&index=6) 
