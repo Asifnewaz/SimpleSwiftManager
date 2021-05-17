@@ -6,8 +6,18 @@
 - **[Study Objc](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/DefiningClasses/DefiningClasses.html#:~:text=In%20Objective%2DC%2C%20a%20class,but%20they%20can%20receive%20messages.&text=Class%20methods%20are%20implemented%20in,implementation%20block%20for%20the%20class.)**
 - 
 
+## Website
+* [NSHipster](https://nshipster.com/)
+* [Awesome iOS](http://awesomeios.com/)
+
+
 ## AVFoundation
 * [iOS video editing core architecture](https://github.com/VideoFlint/Cabbage/wiki/%E4%B8%AD%E6%96%87%E8%AF%B4%E6%98%8E#avfoundation-%E4%B8%AD%E7%9A%84%E8%A7%86%E9%A2%91%E6%95%B0%E6%8D%AE%E6%BA%90)
+
+## XCode Debug and Memory
+* [Apple Debugging](https://www.youtube.com/watch?v=VdBlMpjqqAc&list=PLgTh9sDnKCUM9cgjfwIkJCSMkUGYmjB6-&index=2)
+* [Advanced Swift - Memory Layout & Pointers](https://www.youtube.com/watch?v=o-Ta5AIUSKM&list=PLgTh9sDnKCUMzd4FXd5iVPALf5xixwW4T)
+* [Reducing Memory Footprint and OOM](https://medium.com/flawless-app-stories/techniques-to-reduce-memory-footprint-and-oom-terminations-in-ios-a0f6bef38217)
 
 
 ## AVVideoCompositing
