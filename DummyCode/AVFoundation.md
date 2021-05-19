@@ -56,6 +56,7 @@
 * [Custom CIFilter](https://bignerdranch.com/blog/custom-filters-with-core-image-kernel-language/)
 * [iOS Core Image Tutorial](https://ase.in.tum.de/lehrstuhl_1/teaching/tutorials/506-sgd-ws13-tutorial-core-image)
 * [iOS Drawing: Learning Contexts and Basic UIKit Fundamentals](https://www.informit.com/articles/article.aspx?p=2149190&seqNum=11)
+* [Metal by Example](https://metalbyexample.com/metal-performance-shaders-in-swift/)
 
 
 ## Youtube Channel
