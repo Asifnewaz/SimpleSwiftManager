@@ -22,7 +22,6 @@ GOOGLESERVICE_INFO_WPRO=${PROJECT_DIR}/${TARGET_NAME}/Firebase/WalletProd/${GOOG
 GOOGLESERVICE_INFO_BPRO=${PROJECT_DIR}/${TARGET_NAME}/Firebase/BusinessProd/${GOOGLESERVICE_INFO_PLIST}
 
 
-
 # NEW Make sure the CB Wallet SAN version of GoogleService-Info.plist exists
 # SAN: custoemr
 echo "Looking for ${GOOGLESERVICE_INFO_PLIST} in ${GOOGLESERVICE_INFO_CBWSANF}"
@@ -76,3 +75,5 @@ fi
 ## Reference
 
 * [Meduim](https://medium.com/rocket-fuel/using-multiple-firebase-environments-in-ios-12b204cfa6c0)
+* [Gist](https://gist.github.com/tylermilner/f8e9121d62c890cb707bc1810a7d57d9)
+* [GitHub](https://github.com/tylermilner/FirebaseEnvironmentsDemo)
