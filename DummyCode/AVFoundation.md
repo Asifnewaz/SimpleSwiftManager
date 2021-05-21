@@ -62,6 +62,10 @@
 
 * [MTTransitions](https://github.com/alexiscn/MTTransitions)
 * [MetalFilters](https://github.com/alexiscn/MetalFilters)
+* [Metal with SceneKit - Create your first shader on iOS](https://www.linkedin.com/pulse/metal-scenekit-create-your-first-shader-onios-malik-alayli/)
+* [Getting Into Metal & Shaders on iOS](http://www.code-disciple.com/getting-metal-shaders-ios/)
+* [Apple Code](https://developer.apple.com/metal/sample-code/)
+* [Ray](https://www.youtube.com/watch?v=c-5MD03NUMw)
 
 ## Youtube Channel
 * [The Swift Guy](https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA/playlists)
