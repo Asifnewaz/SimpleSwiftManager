@@ -68,6 +68,7 @@
 * [Apple Code](https://developer.apple.com/metal/sample-code/)
 * [Ray](https://www.youtube.com/watch?v=c-5MD03NUMw)
 * [VideoShader for Metal](https://github.com/snakajima/vs-metal)
+* [StacKO](https://stackoverflow.com/questions/45214852/how-to-use-a-custom-compute-shaders-using-metal-and-get-very-smooth-performance)
 
 ## Youtube Channel
 * [The Swift Guy](https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA/playlists)
