@@ -69,6 +69,16 @@
 * [Ray](https://www.youtube.com/watch?v=c-5MD03NUMw)
 * [VideoShader for Metal](https://github.com/snakajima/vs-metal)
 * [StacKO](https://stackoverflow.com/questions/45214852/how-to-use-a-custom-compute-shaders-using-metal-and-get-very-smooth-performance)
+* [Metal 3D Graphics Part 1](https://donaldpinckney.com/metal/2018/07/05/metal-intro-1.html)
+* [Medium](https://betterprogramming.pub/making-your-first-circle-using-metal-shaders-1e5049ec8505)
+* [Realm Academy](https://academy.realm.io/posts/3d-graphics-metal-swift/)
+* [Implementing a Bloom Effect with Swift+Metal](https://weblog.jamisbuck.org/2016/2/27/bloom-effect-in-metal.html)
+* [Metal Kit](https://metalkit.org/)
+* [Write a custom filter of Core Image in Metal](https://titanwolf.org/Network/Articles/Article?AID=e05d5cba-2950-4f05-9787-29215fe7085a#gsc.tab=0)
+* [Introducing Image Processing in Metal](https://www.skilled.io/u/flexmonkey/introducing-image-processing-in-metal)
+* [Toy3D - simple 3D engine using Swift + Metal](https://markdaws.net/blog/2019-12-17-toy3d/)
+* [GPU-Accelerated Image Processing](https://www.objc.io/issues/21-camera-and-photos/gpu-accelerated-image-processing/)
+* [write custom shader metal swift](www.google.com)
 
 ## Youtube Channel
 * [The Swift Guy](https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA/playlists)
