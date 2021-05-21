@@ -58,6 +58,10 @@
 * [iOS Drawing: Learning Contexts and Basic UIKit Fundamentals](https://www.informit.com/articles/article.aspx?p=2149190&seqNum=11)
 * [Metal by Example](https://metalbyexample.com/metal-performance-shaders-in-swift/)
 
+## Metal
+
+* [MTTransitions](https://github.com/alexiscn/MTTransitions)
+* [MetalFilters](https://github.com/alexiscn/MetalFilters)
 
 ## Youtube Channel
 * [The Swift Guy](https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA/playlists)
