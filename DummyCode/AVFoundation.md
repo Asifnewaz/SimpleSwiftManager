@@ -67,6 +67,7 @@
 * [Getting Into Metal & Shaders on iOS](http://www.code-disciple.com/getting-metal-shaders-ios/)
 * [Apple Code](https://developer.apple.com/metal/sample-code/)
 * [Ray](https://www.youtube.com/watch?v=c-5MD03NUMw)
+* [VideoShader for Metal](https://github.com/snakajima/vs-metal)
 
 ## Youtube Channel
 * [The Swift Guy](https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA/playlists)
