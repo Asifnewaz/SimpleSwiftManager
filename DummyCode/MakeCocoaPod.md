@@ -1,27 +1,33 @@
 # CocoaPods
 
-```objc
+## Prepare POD's Template and Data
+**Step 1:** Create New POD Template and follow instruction
+```bash
+pod lib create POD_NAME
 ```
-## Prepare POD
-Step 1: Create New POD Template and follow instruction
-    `pod lib create POD_NAME`
 
-Step 1.1: Now you can add your class or other staff in pods Development Pods section
+* Step 1.1: Now you can add your class/assets or other staff in pods Development Pods section
 
-Step 2: Create New Git Repo. To add the library to git
+**Step 2:** Create New Git Repo then add the library to git
 
-Step 3: Push The new pod template project to git
+**Step 3:** Push The new pod template project to git
 
 ## Publish POD Publically:
 
-Step 1: Register email for pod publish
-    `pod trunk register 'Your_Email_address'`
+**Step 1:** Register email for pod publish
+```bash
+pod trunk register 'your_email_address'
+```
 
-Step 2:  Verify pod spec 
-    `pod lib lint 'Pod_Spec_file_Name_with_Extension'`
+**Step 2:**  Verify pod spec 
+```bash
+pod lib lint 'pod_spec_file_name_with_extension'
+```
 
-Step 3: publish pod globally
-    `pod trunk push 'Pod_Spec_file_Name_with_Extension'`
+**Step 3:** publish pod globally
+```bash
+pod trunk push 'pod_spec_file_name_with_extension'
+```
 
 
 Publish POD Privately:
