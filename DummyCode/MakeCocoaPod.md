@@ -44,6 +44,29 @@ pod trunk push 'pod_spec_file_name_with_extension'
 
 
 ## Publish Private POD:
+`Before Proceed please note that to keep pod private both repo needs to be private repo.`
+**Step 1:** Create a new folder to maintaining podspec file.
+**Step 2:** Create a private git repo to upload newly created folder.
+**Step 3:** Add podspec file inside the folder.
+**Step 4:** Push the newly created folder containing podspec file to git.
+
+**Step 5** Test POD:
+  * Create new project
+  * init pod
+  * open pod file
+  * add source of the private pod, like
+```bash
+source 'https://github.com/Asifnewaz/TestPodSpec.git'
+```
+  * Here  source link must be the link of the repo that contains only pod spec file
+  * then inside   `use_frameworks!` add following line
+```bash
+pod 'POD_NAME'
+```
+  * save pod file, Enter the following comman
+```bash
+pod install
+```
 
 
 ## Reference 
