@@ -25,7 +25,7 @@ After giving answers a new XCode project will be open with pod library configura
 **Step 3:** Push the newly created projec file to git.
 
 
-## Publish POD Publically:
+## Publish Public POD:
 
 **Step 1:** Register email for pod publish
 ```bash
@@ -43,4 +43,13 @@ pod trunk push 'pod_spec_file_name_with_extension'
 ```
 
 
-Publish POD Privately:
+## Publish Private POD:
+
+
+## Reference 
+* [CocoaPods](https://guides.cocoapods.org/making/making-a-cocoapod.html)
+* [Tuts Tutorial](https://code.tutsplus.com/tutorials/creating-your-first-cocoapod--cms-24332)
+* [Cocoapods Tutorial - Create Launch and Maintain (part 1)](https://www.youtube.com/watch?v=u8pHhxZ6BvE)
+* [CocoaPods Swift - Create, Launch and Maintain](https://www.youtube.com/watch?v=_Y5tJcc6g-s)
+* [How to Create a CocoadPods Library to share code](https://www.youtube.com/watch?v=LqPCpAZaCME)
+* [Here's How to Easily Setup your Private CocoaPods Repository](https://www.youtube.com/watch?v=atNlyV8Xkm0)
