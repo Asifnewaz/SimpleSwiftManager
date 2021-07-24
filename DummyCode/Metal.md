@@ -1,18 +1,21 @@
 # METAL
 
+## Shaders Language
+* [A Review of Shader Languages](https://alain.xyz/blog/a-review-of-shader-languages)
 
 ## Metal
 
 * [Walkthrough of Apple's Metal](https://www.youtube.com/watch?v=W-bPb7Xoy5I&list=PLEXt1-oJUa4CeZsjC7Tpk6eUgx3WEgMi9)
 * [Swift Game Engine Tutorial With Metal](https://www.youtube.com/watch?v=PcA-VAybgIQ&list=PLEXt1-oJUa4BVgjZt9tK2MhV_DW7PVDsg)
 * [Compute Kernel Functions With Metal](https://www.youtube.com/watch?v=VQK28rRK6OU&list=PLEXt1-oJUa4AMDyQlXRMGnBcMzZQvnAAg)
+* [Metal by Example](https://metalbyexample.com/)
+* [Metal by Tutorials](https://www.raywenderlich.com/books/metal-by-tutorials/v2.0/chapters/6-textures#toc-chapter-009-anchor-001)
 * [MTTransitions](https://github.com/alexiscn/MTTransitions)
 * [MetalFilters](https://github.com/alexiscn/MetalFilters)
 * [Metal with SceneKit - Create your first shader on iOS](https://www.linkedin.com/pulse/metal-scenekit-create-your-first-shader-onios-malik-alayli/)
 * [Getting Into Metal & Shaders on iOS](http://www.code-disciple.com/getting-metal-shaders-ios/)
 * [Apple Code](https://developer.apple.com/metal/sample-code/)
 * [Ray](https://www.youtube.com/watch?v=TEqbZ7Ai7AA&list=PL23Revp-82LJG3vcDPm8w7b5HTKjBOY0W)
-* [VideoShader for Metal](https://github.com/snakajima/vs-metal)
 * [StacKO](https://stackoverflow.com/questions/45214852/how-to-use-a-custom-compute-shaders-using-metal-and-get-very-smooth-performance)
 * [Metal 3D Graphics Part 1](https://donaldpinckney.com/metal/2018/07/05/metal-intro-1.html)
 * [Medium](https://betterprogramming.pub/making-your-first-circle-using-metal-shaders-1e5049ec8505)
@@ -27,3 +30,7 @@
 
 ## GLSL
 * [Learn GLSL Shaders from Scratch](https://www.youtube.com/watch?v=uwzEqeMd7uQ&list=PLFky-gauhF452rW98W4cyZ8_2fXBjfGOT)
+
+## GitHub
+* [ImageFiltersMetal](https://github.com/SergLam/ImageFiltersMetal)
+* [VideoShader for Metal](https://github.com/snakajima/vs-metal)
