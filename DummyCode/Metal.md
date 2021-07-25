@@ -38,7 +38,7 @@
 * [ImageFiltersMetal](https://github.com/SergLam/ImageFiltersMetal)
 * [VideoShader for Metal](https://github.com/snakajima/vs-metal)
 
-* [**MetalPetal Owner**](https://github.com/YuAo)
+
 * [**SwiftShaders**](https://github.com/malayli/SwiftShaders)
 * [**MetalPlayer**](https://github.com/unixzii/MetalPlayer)
 * [**Metal Playground**](https://github.com/raheelahmad/metal-playground)
@@ -58,3 +58,7 @@
 * [**RealityTap**](https://github.com/linkov/RealityTap)
 * [msl-playground](https://github.com/3PIV/msl-playground)
 * [triangleRenderer](https://github.com/Khiyotsovh/triangleRenderer)
+
+## R&D
+* [**MetalPetal Owner**](https://github.com/YuAo)
+* [Apple Few Code](https://developer.apple.com/documentation/metal/rendering_a_scene_with_forward_plus_lighting_using_tile_shaders)
