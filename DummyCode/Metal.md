@@ -31,6 +31,7 @@
 
 ## GLSL
 * [GLSL SandBox](http://glslsandbox.com/)
+* [Shader Toy](https://www.shadertoy.com/)
 * [Learn GLSL Shaders from Scratch](https://www.youtube.com/watch?v=uwzEqeMd7uQ&list=PLFky-gauhF452rW98W4cyZ8_2fXBjfGOT)
 
 ## GitHub
