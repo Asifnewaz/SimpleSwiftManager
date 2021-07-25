@@ -32,7 +32,9 @@
 ## GLSL
 * [GLSL SandBox](http://glslsandbox.com/)
 * [Shader Toy](https://www.shadertoy.com/)
+* [Graphtoy](https://graphtoy.com/)
 * [Learn GLSL Shaders from Scratch](https://www.youtube.com/watch?v=uwzEqeMd7uQ&list=PLFky-gauhF452rW98W4cyZ8_2fXBjfGOT)
+* [iquilezles](https://www.iquilezles.org/)
 
 ## GitHub
 * [ImageFiltersMetal](https://github.com/SergLam/ImageFiltersMetal)
