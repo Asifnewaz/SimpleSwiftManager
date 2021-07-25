@@ -38,6 +38,7 @@
 * [ImageFiltersMetal](https://github.com/SergLam/ImageFiltersMetal)
 * [VideoShader for Metal](https://github.com/snakajima/vs-metal)
 
+* [**MetalPetal Owner**](https://github.com/YuAo)
 * [**SwiftShaders**](https://github.com/malayli/SwiftShaders)
 * [**MetalPlayer**](https://github.com/unixzii/MetalPlayer)
 * [**Metal Playground**](https://github.com/raheelahmad/metal-playground)
