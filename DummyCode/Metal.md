@@ -5,7 +5,7 @@
 
 ## Metal
 
-* [Metal Usage: Boiler Code](https://rubygarage.org/blog/metal-tutorial-for-processing-media-data)
+* [Metal Usage: Boiler Code **](https://rubygarage.org/blog/metal-tutorial-for-processing-media-data)
 * [Walkthrough of Apple's Metal](https://www.youtube.com/watch?v=W-bPb7Xoy5I&list=PLEXt1-oJUa4CeZsjC7Tpk6eUgx3WEgMi9)
 * [Swift Game Engine Tutorial With Metal](https://www.youtube.com/watch?v=PcA-VAybgIQ&list=PLEXt1-oJUa4BVgjZt9tK2MhV_DW7PVDsg)
 * [Compute Kernel Functions With Metal](https://www.youtube.com/watch?v=VQK28rRK6OU&list=PLEXt1-oJUa4AMDyQlXRMGnBcMzZQvnAAg)
