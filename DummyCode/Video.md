@@ -7,3 +7,8 @@
 * [ios_swift_live_photos_to_video](https://github.com/mostafizurrahman/ios_swift_live_photos_to_video)
 * [FrameGrabber](https://github.com/arthurhammer/FrameGrabber)
 * [CSVideoReverse](https://github.com/chrissung/CSVideoReverse)
+* [PhotoVideoEditor](https://github.com/FarisAlbalawi/PhotoVideoEditor)
+* [**AnyImageKit**](https://github.com/AnyImageProject/AnyImageKit)
+* [HXPHPicker](https://github.com/SilenceLove/HXPHPicker)
+* [VideoEditorSwifty](https://github.com/AbdullahOO7/VideoEditorSwifty)
+* [VideoEditor SDK](https://github.com/imgly/vesdk-ios-examples)
