@@ -12,3 +12,4 @@
 * [HXPHPicker](https://github.com/SilenceLove/HXPHPicker)
 * [VideoEditorSwifty](https://github.com/AbdullahOO7/VideoEditorSwifty)
 * [VideoEditor SDK](https://github.com/imgly/vesdk-ios-examples)
+* [mini-cut](https://github.com/fwcd/mini-cut)
