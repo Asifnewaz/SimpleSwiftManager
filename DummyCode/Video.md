@@ -13,3 +13,4 @@
 * [VideoEditorSwifty](https://github.com/AbdullahOO7/VideoEditorSwifty)
 * [VideoEditor SDK](https://github.com/imgly/vesdk-ios-examples)
 * [mini-cut](https://github.com/fwcd/mini-cut)
+* [ios-pt1-bw4-gif-maker-stephanie](https://github.com/LambdaSchool/ios-pt1-bw4-gif-maker-stephanie)
