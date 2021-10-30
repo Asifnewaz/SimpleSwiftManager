@@ -18,3 +18,15 @@
 
 # Video to GIF:
 * [Walt](https://github.com/gonzalonunez/Walt) //GOOD one
+* https://github.com/udacity/ios-nd-gif-maker-swift
+* https://github.com/emrdgrmnci/Zappy
+* https://github.com/mmmanishs/GIFt-ed
+* https://github.com/joshdholtz/crunchygif
+* https://github.com/onmyway133/GifMagic
+* https://github.com/henriqueG/HGGIF
+* https://github.com/KrisYu/LivelyGIFs
+* https://github.com/BalestraPatrick/VideoToGIF
+* https://github.com/Krillere/GIF-Maker
+* https://github.com/wangjwchn/AImage
+* https://github.com/moeoverflow/animeloop-ios
+* https://github.com/eduardourso/GIFGenerator
