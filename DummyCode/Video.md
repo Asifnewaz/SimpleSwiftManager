@@ -15,3 +15,6 @@
 * [mini-cut](https://github.com/fwcd/mini-cut)
 * [ios-pt1-bw4-gif-maker-stephanie](https://github.com/LambdaSchool/ios-pt1-bw4-gif-maker-stephanie)
 * [GPVideoClipper](https://github.com/Bestmer/GPVideoClipper-Swift)
+
+# Video to GIF:
+* [Walt](https://github.com/gonzalonunez/Walt) //GOOD one
