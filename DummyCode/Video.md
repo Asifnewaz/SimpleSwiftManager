@@ -16,6 +16,13 @@
 * [ios-pt1-bw4-gif-maker-stephanie](https://github.com/LambdaSchool/ios-pt1-bw4-gif-maker-stephanie)
 * [GPVideoClipper](https://github.com/Bestmer/GPVideoClipper-Swift)
 
+# Video TrimBar:
+* [**VideoTrimmerControl**](https://github.com/AndreasVerhoeven/VideoTrimmerControl)
+* [YGCTrimVideoView](https://github.com/zangqilong198812/YGCTrimVideoView)
+* [VideoConverter](https://github.com/pikachu987/VideoConverter)
+* [DrawingInteractions](https://github.com/tobyspark/DrawingInteractions)
+
+
 # Video to GIF:
 * [Walt](https://github.com/gonzalonunez/Walt) //GOOD one
 * [**giflib**](https://github.com/soleilpqd/giflib-ios)
