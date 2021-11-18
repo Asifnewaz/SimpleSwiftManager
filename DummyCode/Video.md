@@ -25,6 +25,7 @@
 
 # Video to GIF:
 * [Walt](https://github.com/gonzalonunez/Walt) //GOOD one
+* [GifThat]
 * [**giflib**](https://github.com/soleilpqd/giflib-ios)
 * https://github.com/udacity/ios-nd-gif-maker-swift
 * https://github.com/emrdgrmnci/Zappy
