@@ -1,3 +1,7 @@
+# Moving Text/StickerView
+* [PSImageEditors](https://github.com/paintingStyle/PSImageEditors)
+
+
 # Video
 
 * [swift-video-generator-logo](https://github.com/dev-labs-bg/swift-video-generator)
