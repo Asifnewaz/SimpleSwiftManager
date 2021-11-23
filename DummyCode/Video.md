@@ -1,5 +1,7 @@
 # Moving Text/StickerView
 * [PSImageEditors](https://github.com/paintingStyle/PSImageEditors)
+* [StickerView swift](https://github.com/injap2017/StickerView)
+* [**SwiftStickerView** swift](https://github.com/native-mobile-app-developers/SwiftStickerView)
 
 
 # Video
