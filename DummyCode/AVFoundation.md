@@ -24,6 +24,7 @@
 
 ## AVFoundation
 * [iOS video editing core architecture](https://github.com/VideoFlint/Cabbage/wiki/%E4%B8%AD%E6%96%87%E8%AF%B4%E6%98%8E#avfoundation-%E4%B8%AD%E7%9A%84%E8%A7%86%E9%A2%91%E6%95%B0%E6%8D%AE%E6%BA%90)
+* [iOS AVAsset](https://juejin.cn/post/6844903821278183438)
 
 ## XCode Debug and Memory
 * [Apple Debugging](https://www.youtube.com/watch?v=VdBlMpjqqAc&list=PLgTh9sDnKCUM9cgjfwIkJCSMkUGYmjB6-&index=2)
