@@ -8,6 +8,10 @@
 * [**SwiftStickerView** swift](https://github.com/native-mobile-app-developers/SwiftStickerView)
 
 
+# Animate CALyer
+* [Animating CALyer](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreAnimation_guide/CreatingBasicAnimations/CreatingBasicAnimations.html)
+
+
 # Video
 
 * [swift-video-generator-logo](https://github.com/dev-labs-bg/swift-video-generator)
