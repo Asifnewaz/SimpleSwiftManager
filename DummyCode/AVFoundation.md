@@ -6,6 +6,16 @@
 - **[Study Objc](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/DefiningClasses/DefiningClasses.html#:~:text=In%20Objective%2DC%2C%20a%20class,but%20they%20can%20receive%20messages.&text=Class%20methods%20are%20implemented%20in,implementation%20block%20for%20the%20class.)**
 - 
 
+# AVFoundation, Video Codec, Video Export AVVideoComposition
+* [iOS video editing core architecture](https://github.com/VideoFlint/Cabbage/wiki/%E4%B8%AD%E6%96%87%E8%AF%B4%E6%98%8E#avfoundation-%E4%B8%AD%E7%9A%84%E8%A7%86%E9%A2%91%E6%95%B0%E6%8D%AE%E6%BA%90)
+* [iOS AVAsset](https://juejin.cn/post/6844903821278183438)
+* [Video Codec H.264](https://xiaodongxie1024.github.io/2018/10/25/h264DataStructure/)
+* [H.264 and H.265](https://xiaodongxie1024.github.io/2019/05/26/20190526_ios_encoder/)
+* [Video ToolBox](https://xiaodongxie1024.github.io/2019/05/26/20190526_VideoEncoder/)
+* [iOS uses FFmpeg to implement video](https://xiaodongxie1024.github.io/2019/06/26/20190619_video_decoder_ffmpeg/)
+* [Decoding about the sorting of B-frames](https://xiaodongxie1024.github.io/2019/06/26/20190626_ios_Bframe_sort/)
+
+
 ## Blog Website 
 * [NSHipster](https://nshipster.com/)
 * [Awesome iOS](http://awesomeios.com/)
@@ -21,10 +31,6 @@
 * [iOS Autolayout](https://www.youtube.com/watch?v=I1Z3vvSad8Y)
 * [Auto-layout tutorial for beginners](https://www.youtube.com/watch?v=TCGl-Nst014&list=PLH09wnLPfxsmk2u-lYxS4JTDEpDod6C2h)
 
-
-## AVFoundation
-* [iOS video editing core architecture](https://github.com/VideoFlint/Cabbage/wiki/%E4%B8%AD%E6%96%87%E8%AF%B4%E6%98%8E#avfoundation-%E4%B8%AD%E7%9A%84%E8%A7%86%E9%A2%91%E6%95%B0%E6%8D%AE%E6%BA%90)
-* [iOS AVAsset](https://juejin.cn/post/6844903821278183438)
 
 ## XCode Debug and Memory
 * [Apple Debugging](https://www.youtube.com/watch?v=VdBlMpjqqAc&list=PLgTh9sDnKCUM9cgjfwIkJCSMkUGYmjB6-&index=2)
