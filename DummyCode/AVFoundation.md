@@ -14,6 +14,7 @@
 * [Video ToolBox](https://xiaodongxie1024.github.io/2019/05/26/20190526_VideoEncoder/)
 * [iOS uses FFmpeg to implement video](https://xiaodongxie1024.github.io/2019/06/26/20190619_video_decoder_ffmpeg/)
 * [Decoding about the sorting of B-frames](https://xiaodongxie1024.github.io/2019/06/26/20190626_ios_Bframe_sort/)
+* [video-compression-in-ios-swift-4](https://testfairy.com/blog/fine-tuned-video-compression-in-ios-swift-4-no-dependencies/)
 
 
 ## Blog Website 
