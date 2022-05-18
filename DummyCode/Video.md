@@ -1,6 +1,6 @@
 # GIF To Video
 * [GIF to Video](https://gist.github.com/Nyx0uf/174cc94ae1aacf2b7003)
-
+* [Transparent GIF](https://github.com/aheze/ProgressGif)
 
 # Moving Text/StickerView
 * [PSImageEditors](https://github.com/paintingStyle/PSImageEditors)
