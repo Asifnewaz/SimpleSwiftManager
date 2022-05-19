@@ -16,6 +16,7 @@
 
 * [swift-video-generator-logo](https://github.com/dev-labs-bg/swift-video-generator)
 * [VideoFilters](https://github.com/gerasumit/VideoFilters)
+* [Chroma Key To live Camera](https://stackoverflow.com/questions/24948886/how-to-apply-chroma-key-filter-with-any-color-to-live-camera-feed-ios)
 * [core-image-video](https://github.com/chriseidhof/core-image-video)
 * [MediaView](https://github.com/AndrewBoryk/MediaView)
 * [ios_swift_live_photos_to_video](https://github.com/mostafizurrahman/ios_swift_live_photos_to_video)
