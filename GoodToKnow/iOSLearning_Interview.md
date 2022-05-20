@@ -1,5 +1,5 @@
 # iOS Basics
-*[SwiftCoding](https://github.com/stevencurtis/SwiftCoding)
+- [SwiftCoding](https://github.com/stevencurtis/SwiftCoding)
 
 
 # Data Structure
