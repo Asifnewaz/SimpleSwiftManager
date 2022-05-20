@@ -24,6 +24,11 @@ Link:
 [SO](https://stackoverflow.com/a/2703713/3124756)  
 [Blog](https://topic.alibabacloud.com/a/ar-command-extract-a-moment-an-error-is-a-fat-file-use-libtool-1-or-lipo-1-and-ar-1-on-it_8_8_31350040.html)
 
+## Open .o file
+```bash
+objdump -D test.o
+```
+
 ## For release android apk from visual studio code, 
 ```bash
 flutter build apk --release
