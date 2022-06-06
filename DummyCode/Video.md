@@ -15,6 +15,7 @@
 # Video
 
 * [**VideoCat**](https://github.com/vitoziv/VideoCat)
+* [**VITimelineView**](https://github.com/VideoFlint/VITimelineView)
 * [swift-video-generator-logo](https://github.com/dev-labs-bg/swift-video-generator)
 * [VideoFilters](https://github.com/gerasumit/VideoFilters)
 * [Chroma Key To live Camera](https://stackoverflow.com/questions/24948886/how-to-apply-chroma-key-filter-with-any-color-to-live-camera-feed-ios)
