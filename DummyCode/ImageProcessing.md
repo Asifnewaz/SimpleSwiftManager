@@ -1,6 +1,7 @@
 # Core Image Processing
 
 * [Sharaku](https://github.com/makomori/Sharaku)
+* [photo-editor](https://github.com/j1mmyto9/photo-editor-luts-swiftui)
 * [FaceAware](https://github.com/BeauNouvelle/FaceAware)
 * [**JHFilterDemo**](https://github.com/China131/JHFilterDemo)
 * [ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView)
