@@ -68,6 +68,8 @@ if let name = myName {
 ```
 
 ### What is optional chaining
+Optional chaining is a process for querying and calling properties, methods, and subscripts on an optional that might currently be nil .
+
 ```swift
 class Man {
     var name: String?
