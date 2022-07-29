@@ -1,6 +1,12 @@
 # Design patterns
 A software design pattern is a solution to a particular problem you might face when designing an app’s architecture.
 
+### MVC vs MVVM:
+* Testing: MVVM makes code more testbale. 
+* In MVVM BL are loosely coupled 
+* Entry Point: Contoller  --   View. 
+
+
 ### Several benefits:
 * Tested solutions. 
 * Code unification. 
