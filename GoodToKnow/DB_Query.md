@@ -35,6 +35,15 @@ WHERE condition;                        (EX: WHERE CountryID=1;)
 - DELETE Syntax         ``` DELETE FROM table_name WHERE condition; ```
 - 
 
+# Joins
+* Types: INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN
+
+```sql
+SELECT column1, column1, column1, ..
+FROM table_one
+INNER JOIN table_two ON some_conditions (like: Orders.CustomerID=Customers.CustomerID);
+```
+
 ## Crate/Drop DB
 
 ```sql
