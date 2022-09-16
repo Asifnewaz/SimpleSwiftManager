@@ -22,8 +22,6 @@ DROP DATABASE databasename;
 ```
 Structure:                              Example:
 ```
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
 ```sql
 CREATE TABLE table_name (               CREATE TABLE Persons (                   
     column1 datatype,                       PersonID int,
@@ -37,14 +35,12 @@ CREATE TABLE table_name (               CREATE TABLE Persons (
 ```
 Structure:                              Example:
 ```
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
 ```sql
-DROP TABLE table_name;               DROP TABLE Shippers;
+DROP TABLE table_name;                  DROP TABLE Shippers;
 ```
 
 ```sql
-TRUNCATE TABLE table_name;           TRUNCATE TABLE Shippers;
+TRUNCATE TABLE table_name;              TRUNCATE TABLE Shippers;
 ```
 
 ** Difference between drop and Truncate is: 
