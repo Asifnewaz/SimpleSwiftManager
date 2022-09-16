@@ -9,6 +9,31 @@ Read	  SELECT	  GET
 Update	  UPDATE	  PUT
 Delete	  DELETE	  DELETE
 ```
+## Select
+
+```sql
+SELECT * FROM table_name;               SELECT column1, column2,..
+                                        FROM table_name;
+```
+
+* The SELECT DISTINCT statement is used to return only distinct (different) values.
+
+```sql
+SELECT DISTINCT column1, column2,..
+FROM table_name;
+```
+
+## Where Clause for Filter
+```sql
+SELECT column1, column2, ...
+FROM table_name
+WHERE condition;                        (EX: WHERE CountryID=1;)
+```
+
+- INSERT INTO Syntax    ``` INSERT INTO table_name (column1, column2, column3, ...) VALUES (value1, value2, value3, ...); ```
+- UPDATE Syntax         ``` UPDATE table_name SET column1 = value1, column2 = value2, ... WHERE condition; ```
+- DELETE Syntax         ``` DELETE FROM table_name WHERE condition; ```
+- 
 
 ## Crate/Drop DB
 
