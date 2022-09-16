@@ -1,4 +1,4 @@
-## SQL
+# SQL
 
 - - - - - - - - - - - - - - - - - - - 
 CRUD      SQL       HTTP
@@ -8,32 +8,46 @@ Read	    SELECT	  GET
 Update	  UPDATE	  PUT
 Delete	  DELETE	  DELETE
 
-# Crate/Drop DB
+## Crate/Drop DB
 
 ```sql
 CREATE DATABASE databasename;
 DROP DATABASE databasename;
 ```
 
-# Create Table
+## Create Table                     
 
-Structure:
+Structure:                              Example:
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 ```sql
-CREATE TABLE table_name (
-    column1 datatype,
-    column2 datatype,
-    column3 datatype,
-   ....
-);
+CREATE TABLE table_name (               CREATE TABLE Persons (                   
+    column1 datatype,                       PersonID int,
+    column2 datatype,                       LastName varchar(255),
+    column3 datatype,                       FirstName varchar(255),
+   ....                                     Address varchar(255),
+);                                      );
 ```
 
-Example:
-CREATE TABLE Persons (
-    PersonID int,
-    LastName varchar(255),
-    FirstName varchar(255),
-    Address varchar(255),
-    City varchar(255)
-);
+## DROP/TRUNCATE Table                     
+
+Structure:                              Example:
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+```sql
+DROP TABLE table_name;               DROP TABLE Shippers;
+```
+
+```sql
+TRUNCATE TABLE table_name;           TRUNCATE TABLE Shippers;
+```
+
+** Difference between drop and Truncate is: 
+    - Drop is used to drop an existing table in a database.
+    - Truncate is used to delete the data inside a table, but not the table itself.
+
+
+
+
 
 
