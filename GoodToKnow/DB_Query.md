@@ -23,13 +23,14 @@ DROP DATABASE databasename;
 Structure:                              Example:
 ```
 ```sql
-CREATE TABLE table_name (               CREATE TABLE Persons (                   
-    column1 datatype,                       PersonID int,
-    column2 datatype,                       LastName varchar(255),
-    column3 datatype,                       FirstName varchar(255),
-   ....                                     Address varchar(255),
-);                                      );
+CREATE TABLE table_name (               CREATE TABLE Persons (                  CREATE TABLE Persons (                   
+    column1 datatype,                       PersonID int,                           PersonID int NOT NULL PRIMARY KEY,
+    column2 datatype,                       LastName varchar(255),                  LastName varchar(255),
+    column3 datatype,                       FirstName varchar(255),                 FirstName varchar(255),
+   ....                                     Address varchar(255),                   Address varchar(255),
+);                                      );                                      );
 ```
+
 
 ## DROP/TRUNCATE Table                     
 ```
