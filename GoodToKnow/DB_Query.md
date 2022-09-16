@@ -1,12 +1,14 @@
 # SQL
 
+```
 - - - - - - - - - - - - - - - - - - - 
 CRUD      SQL       HTTP
 - - - - - - - - - - - - - - - - - - - 
 Create    INSERT	  POST
-Read	    SELECT	  GET
+Read	  SELECT	  GET
 Update	  UPDATE	  PUT
 Delete	  DELETE	  DELETE
+```
 
 ## Crate/Drop DB
 
@@ -17,7 +19,9 @@ DROP DATABASE databasename;
 
 ## Create Table                     
 
+```
 Structure:                              Example:
+```
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 ```sql
@@ -30,8 +34,9 @@ CREATE TABLE table_name (               CREATE TABLE Persons (
 ```
 
 ## DROP/TRUNCATE Table                     
-
+```
 Structure:                              Example:
+```
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 ```sql
