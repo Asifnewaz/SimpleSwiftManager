@@ -1,4 +1,4 @@
-# SQL
+# Basic SQL
 
 ```
 - - - - - - - - - - - - - - - - - - - 
@@ -48,7 +48,28 @@ TRUNCATE TABLE table_name;              TRUNCATE TABLE Shippers;
     - Truncate is used to delete the data inside a table, but not the table itself.
 
 
+## SQL ALTER TABLE
 
+```
+Structure:                              Example:
+```
+- ADD Column
+```sql
+ALTER TABLE table_name                  ALTER TABLE Customers
+ADD column_name datatype;               ADD Email varchar(255);
+```
+
+- DROP COLUMN
+```sql
+ALTER TABLE table_name                  ALTER TABLE Customers
+DROP COLUMN column_name;                DROP COLUMN Email;
+```
+
+- ALTER/MODIFY COLUMN (To change the data type of a column)
+```sql
+ALTER TABLE table_name                  ALTER TABLE Customers
+ALTER COLUMN column_name datatype;      ALTER COLUMN Email varchar(128);;
+```
 
 
 
