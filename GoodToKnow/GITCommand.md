@@ -1,5 +1,10 @@
 # GIT Command
 
+- GIT inititialize 
+```
+git init 
+```
+
 - GIT add all file
 ```
 git add --all  
