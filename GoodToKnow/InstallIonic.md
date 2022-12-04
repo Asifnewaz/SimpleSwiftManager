@@ -9,4 +9,4 @@
 |Update dependencies|`npm install`|
 |Run inside the default browser|`ionic serve -c`|
 
-*That's all.*
+*That's all Thanks.*
