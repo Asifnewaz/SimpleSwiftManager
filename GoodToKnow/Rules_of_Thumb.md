@@ -20,12 +20,21 @@ int summationOfTwoNumber(int numberOne, int numberTwo) {
   return sum;
 }
 
+// Example of calling a function
+int num1 = 10;
+int num2 = 15;
+int sum = summationOfTwoNumber(num1, num2);
+
 
 // If funtion has no return then return type will be void
 // (this is not C style)
 void printMyName(string name) {
   print(name);
 }
+
+// Example of calling a function, Notice this method have void type return.
+string name = "Asif Newaz"
+printMyName(name);
 
 ```
 -  One method/function always have one responsibility.
