@@ -20,5 +20,12 @@ int summationOfTwoNumber(int numberOne, int numberTwo) {
   return sum;
 }
 
+
+// If funtion has no return then return type will be void
+// (this is not C style)
+void printMyName(string name) {
+  print(name);
+}
+
 ```
 -  One method/function always have one responsibility.
